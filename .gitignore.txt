@@ -1,0 +1,61 @@
+# Directorios de compilación
+/target/
+!target/classes/
+/build/
+
+# Archivos de configuración del IDE
+/.idea/
+/*.iml
+/.classpath
+/.project
+/.settings/
+
+# Archivos generados por sistemas de construcción
+/.mvn/
+/mvnw
+/mvnw.cmd
+*.jar
+*.war
+*.ear
+
+# Archivos de logs
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configuración específica de SO
+*.swp
+*~
+
+# Archivos de Lombok
+.lombok/
+
+# Archivos de cobertura de pruebas
+/coverage/
+/test-output/
+/jacoco/
+
+# Configuración de Eclipse
+/.metadata/
+/bin/
+/tmp/
+/.apt_generated/
+/.classpath
+/.factorypath
+/.project
+/.settings/
+/.springBeans
+
+# Archivos de configuración del entorno
+/.env
+*.env
+
+# Configuración del editor de texto
+.vscode/
+*.code-workspace
+
+# Archivos de configuración de IntelliJ IDEA
+.idea/
+*.iml
